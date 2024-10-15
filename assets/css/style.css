@@ -1,0 +1,41 @@
+h1{
+    color:white;
+    background:black
+}
+p{
+    color:blue;
+    background-color: darkblue;
+}
+table{
+    color:black;
+    background-color: aquamarine;
+}
+thead{
+    border-style: ridge;
+    border-width: 8px;
+    border-color: blueviolet;
+}
+tbody{
+    border-top-style: solid;
+    border-bottom-style: dashed;
+    border-left-style:groove;
+    border-right-style:dotted;
+    border-width: 8px;
+    border-color:orange;
+}
+.main-container .rounded{
+    border:1px solid red;
+    height:100px;
+    width:500px;
+    border-radius:20px;
+    background-color:blue;  
+}
+
+.img .rounded{
+    border:1px solid red;
+    height:100px;
+    width:500px;
+    border-radius:20px;
+    background-color:blue;
+}
+
